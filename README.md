@@ -53,11 +53,13 @@ Here is explained how to run the RunnoffApp
 
 1) Run gui.py
 
-![](https://github.com/Tlanezi/netCDF-Project/blob/97bbe0681d83af8ef594883f1685ab5c70164062/runnoffapp.png)
+
 
 2) Select your excel file with the coordinates
 included in the program there is a file named "points.xlsx"
 press the yellow button to select the file
+
+![](https://github.com/Tlanezi/netCDF-Project/blob/97bbe0681d83af8ef594883f1685ab5c70164062/runnoffapp.png)
 
 3) Select the desired folder where the output file will be saved  
 

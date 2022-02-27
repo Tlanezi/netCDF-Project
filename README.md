@@ -16,7 +16,7 @@ git clone https://github.com/Tlanezi/1st-Repo.git
 ```                                 
 
 ### Prerequisites
-*Python* libraries: *tkinter*, *numpy*, and *pandas*.
+*Python* libraries: *tkinter*, *numpy*, *netCDF4* and *pandas*.
 Install create a new environment and install flusstools
 
 ```
@@ -34,10 +34,13 @@ It is important not to change the name of the document once downloaded
 
 ![git](https://github.com/Tlanezi/netCDF-Project/blob/a0ce7fa0444301056260bcfa5df83bc9bf5c7afc/ETH.png)
 
-IMPORTAT!! 
-Save the document directly in the Gru folder
 
-***ADDimage!
+IMPORTAT!! 
+Save the document directly in the Grun_reader folder (same folder where python program is contained)
+
+
+![](https://github.com/Tlanezi/netCDF-Project/blob/8e5996a1a4300989ccefd1ad4a37fb858e5483b4/grun.png)
+
 
 ### What is a NetCDF file?
 

@@ -53,7 +53,7 @@ Here is explained how to run the RunnoffApp
 
 1) Run gui.py
 
-
+![](https://github.com/Tlanezi/netCDF-Project/blob/6c94ac9257e5323ea56fdf1608e57410ceb61058/gui.png)
 
 2) Select your excel file with the coordinates
 included in the program there is a file named "points.xlsx"

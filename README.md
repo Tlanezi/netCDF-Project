@@ -12,7 +12,7 @@ These instructions will get you a copy of the project up and running on your loc
 Get ready by cloning the exercise repository:
 
 ```
-git clone https://github.com/Tlanezi/1st-Repo.git
+git clone https://github.com/Tlanezi/netCDF-Project.git
 ```                                 
 
 ### Prerequisites

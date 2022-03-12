@@ -1,6 +1,6 @@
 # TAMA Project "Runoff App"
 
-This project was developed as final project for the course Python Programming for Water Resources Engineering and Research
+This project was developed as final project at University of Stuttgart for the course Python Programming for Water Resources Engineering and Research
 TAMA project is a GUI (Graphical User Interface) based on the netcdf file provided in GRUN platform by [ETH Zurich](https://www.research-collection.ethz.ch/handle/20.500.11850/324386)
 GRUN: an observation-based global gridded runoff dataset from 1902 to 2014).       
 
